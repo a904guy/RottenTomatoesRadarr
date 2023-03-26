@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Digital Ocean
+.deployed
+packages/rtr/convert/__deployer__.zip
+packages/rtr/convert/venv
